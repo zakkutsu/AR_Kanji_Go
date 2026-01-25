@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Img_Api" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Air" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Hi" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Mizu" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Gerbang" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Buku" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Mobil" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Kucing" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Orang" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Ikan" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Hujan" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Bunga" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Gunung" size="1.000000 1.000000" />
+    <ImageTarget name="Img_Pohon" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Mon" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Sakana" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Neko" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Kuruma" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Hon" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Hito" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Ame" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Hana" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Ki" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_Yama" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

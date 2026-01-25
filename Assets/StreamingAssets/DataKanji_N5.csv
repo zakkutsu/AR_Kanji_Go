@@ -1,0 +1,13 @@
+﻿ID,Kanji,Arti,Onyomi,Kunyomi,ContohKata,AudioFile
+Marker_Ki,木,Pohon,モク (Moku),き (Ki),木曜日 (Mokuyoubi - Hari Kamis),sfx_ki
+Marker_Yama,山,Gunung,サン (San),やま (Yama),富士山 (Fujisan - Gunung Fuji),sfx_yama
+Marker_Hana,花,Bunga,カ (Ka),はな (Hana),花火 (Hanabi - Kembang Api),sfx_hana
+Marker_Ame,雨,Hujan,ウ (U),あめ (Ame),大雨 (Ooame - Hujan Lebat),sfx_ame
+Marker_Mizu,水,Air,スイ (Sui),みず (Mizu),水曜日 (Suiyoubi - Hari Rabu),sfx_mizu
+Marker_Hi,火,Api,カ (Ka),ひ (Hi),火曜日 (Kayoubi - Hari Selasa),sfx_hi
+Marker_Sakana,魚,Ikan,ギョ (Gyo),さかな (Sakana),金魚 (Kingyo - Ikan Mas),sfx_sakana
+Marker_Hito,人,Orang,ジン (Jin),ひと (Hito),日本人 (Nihonjin - Orang Jepang),sfx_hito
+Marker_Neko,猫,Kucing,ビョウ,ねこ (Neko),子猫 (Koneko - Anak Kucing),sfx_neko
+Marker_Kuruma,車,Mobil,シャ (Sha),くるま (Kuruma),電車 (Densha - Kereta Listrik),sfx_kuruma
+Marker Hon,本,Buku,ホン (Hon),もと (Moto),日本 (Nihon - Jepang),sfx_hon
+Marker_Mon,門,Gerbang,モン (Mon),かど (Kado),校門 (Koumon - Gerbang Sekolah),sfx_mon
