@@ -2,6 +2,12 @@
 
 > Aplikasi Pembelajaran Kanji N5 Berbasis Augmented Reality
 
+## 📦 Download
+
+👉 [Download APK (Latest Release)](https://github.com/zakkutsu/AR_Kanji_Go/releases/latest)
+
+---
+
 [![Unity](https://img.shields.io/badge/Unity-2021.3+-blue.svg)](https://unity.com/)
 [![Vuforia](https://img.shields.io/badge/Vuforia-Engine-green.svg)](https://developer.vuforia.com/)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20PC-orange.svg)]()
@@ -183,14 +189,6 @@ Assets/
 - **Salah** - Feedback jawaban salah
 - **Result** - Jingle hasil akhir
 
-### Kanji Audio
-File audio untuk setiap Kanji (sfx_ki.wav, sfx_yama.wav, dll) terletak di `Assets/Resources/SuaraKanji/`
-
-## 📚 Dokumentasi Tambahan
-
-- **Penjelasan_Proyek.md** - Analisis lengkap arsitektur aplikasi
-- **Penjelasan_Proyek.txt** - Dokumentasi dalam format teks biasa
-
 ## 🐛 Known Issues & Limitations
 
 - Marker AR harus cukup terang dan jelas untuk tracking optimal
@@ -222,16 +220,4 @@ Proyek ini dibuat untuk tujuan edukasi.
 
 ---
 
-## 📞 Contact & Support
-
-Jika ada pertanyaan atau masalah terkait aplikasi, silakan hubungi melalui:
-- Issue tracker di repository ini
-- Email: [your-email@example.com]
-
----
-
 **Selamat Belajar Kanji! がんばって！(Ganbatte!)** 🎌
-
----
-
-*Dokumentasi ini terakhir diperbarui: 25 Januari 2026*
