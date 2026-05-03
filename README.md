@@ -22,7 +22,6 @@
 - 📝 **Kuis Interaktif** - Pilihan ganda dengan 3 tingkat kesulitan (Easy/Medium/Hard)
 - 🎮 **Game Susun Kata** - Latihan menyusun huruf Romaji dengan timer
 - ⭐ **Sistem Penilaian** - Skor dan rating bintang untuk memotivasi pembelajaran
-- 🔊 **Audio Support** - Pengucapan native untuk setiap Kanji
 - ⏱️ **Timer Challenge** - Melatih kecepatan dan ketepatan
 
 ## 🎯 Target Pengguna
@@ -49,8 +48,7 @@ AR Kanji Project
 1. Pilih **"BELAJAR"** dari menu utama
 2. Arahkan kamera ke marker Kanji
 3. Lihat informasi lengkap: Kanji, arti, onyomi, kunyomi, contoh
-4. Tap tombol speaker untuk mendengar pengucapan
-5. Gesek objek 3D untuk merotasi
+4. Gesek objek 3D untuk merotasi
 
 ### Mode Ujian
 1. Pilih **"UJIAN"** dari menu utama
